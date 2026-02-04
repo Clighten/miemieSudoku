@@ -1,1 +1,21 @@
-{"item":{"name":"咩咩数独","description":"适合小屏幕操作的数独游戏，含备注系统","preview":["preview0.jpeg"],"icon":"icon.png","source_url":"","author":[]},"downloads":{"n66":{"version":"p65","file_name":"n66."},"n67":{"version":"1.0.0","file_name":"n67."},"p65":{"version":"1.0.0","file_name":"p65."},"o66":{"version":"1.0.0","file_name":"o66."},"o66nfc":{"version":"1.0.0","file_name":"o66nfc."},"n62":{"version":"1.0.0","file_name":"n62."}}}
+{
+  "item":{
+    "name":"咩咩数独",
+    "description":"适合小屏幕操作的数独游戏，含备注系统",
+    "preview":["preview0.jpeg"],
+    "icon":"icon.png",
+    "source_url":"",
+    "author": [{
+      "name": "CenLighten",
+      "author_url": "https://afdian.com/a/CenLighten"
+    }]
+  },
+  "downloads":{
+    "n66":{"version":"1.0.0","file_name":"n66."},
+    "n67":{"version":"1.0.0","file_name":"n67."},
+    "p65":{"version":"1.0.0","file_name":"p65."},
+    "o66":{"version":"1.0.0","file_name":"o66."},
+    "o66nfc":{"version":"1.0.0","file_name":"o66nfc."},
+    "n62":{"version":"1.0.0","file_name":"n62."}
+  }
+}
